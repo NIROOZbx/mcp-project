@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "my-go-server": {
+      "type": "stdio",
+      "command": "${workspaceFolder}/server.exe",
+      "args": []
+    }
+  }
+}

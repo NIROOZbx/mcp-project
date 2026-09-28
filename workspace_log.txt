@@ -1,0 +1,3 @@
+- MCP (Model Context Protocol) lets an application expose tools to an AI client through a standardized interface.
+- This workspace has a Go MCP server named GoDevTools using github.com/mark3labs/mcp-go and stdio transport.
+- Its tools report runtime system stats and save local log messages.
